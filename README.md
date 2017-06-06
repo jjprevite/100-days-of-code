@@ -1,4 +1,6 @@
-# I've joined the #100DaysOfCode Challeng on February 6th, 2017.
+# I've joined the #100DaysOfCode Challenge
+## Round 1: on February 6th, 2017.
+## Round 2: on June 5th, 2017.
 
 <!--## Things I want to learn
 * How to write Javascript in Brackets offline (so I can practice while reading <i>YDKJS</i> and <i>Eloquent Javascript</i>)
@@ -6,7 +8,7 @@
 
 
 ## Goal
-* to finish the Free Code Camp **Front End Development Certificate** by the end of the #100DaysOfCode Challenge on May 17th, 2017
+* to finish the Free Code Camp **Front End Development Certificate** by the end of the #100DaysOfCode Challenge 
 
 ## Contents
 * [Rules](rules.md)
@@ -17,7 +19,7 @@
 ## If want to join:
 1. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 2. Fork this repo and commit to the [Log](log.md) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-3. **Code minimum of 30 minutes every day for the next 100 days.**
+3. **Code minimum of 60 minutes every day for the next 100 days.**
 4. Change the date in [Rules](rules.md) to the day you've started the challenge.
 5. Delete the examples in the log, or comment them out, and start filling it with your own content.
 6. **Tweet your progress every day using the #100DaysOfCode hashtag.**
