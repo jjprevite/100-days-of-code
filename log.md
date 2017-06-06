@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log (Round 1)
 
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
