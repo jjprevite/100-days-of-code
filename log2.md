@@ -9,6 +9,13 @@
 
 **Thoughts**: -->
 
+### Day 3: June 7th, 2017
+
+**Today's Progress**: Coded for 60 minutes. Halfway done with portfolio
+
+**Thoughts**: Feeling pretty good! Found this [great article](https://philipwalton.github.io/solved-by-flexbox/demos/vertical-centering/) on Flexbox that finally makes sense! :D Also, my portfolio is starting to look more and more real. I'm hoping to stick to a simple design.
+
+
 ### Day 2: June 6th, 2017
 
 **Today's Progress**: Coded for 60 minutes. Spent more time sketching and coding portfolio
