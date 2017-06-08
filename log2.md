@@ -9,6 +9,15 @@
 
 **Thoughts**: -->
 
+### Day 4: June 8th, 2017
+
+**Today's Progress**: Coded for 60 minutes. 3/4ths done with portfolio. Worked on adding in jQuery accordian
+
+**Thoughts**: I was a little scared at first to learn how to make content collapsible because I didn't know where to start but thanks to Stack Overflow, I figured it out! Some content isn't centered yet and it's not fully responsive but it's getting closer!
+
+**Link**: http://recordit.co/Qe5MeEnSJQ
+
+
 ### Day 3: June 7th, 2017
 
 **Today's Progress**: Coded for 60 minutes. Halfway done with portfolio
