@@ -9,6 +9,13 @@
 
 **Thoughts**: -->
 
+### Day 5: June 9th, 2017
+
+**Today's Progress**: Coded for 60 minutes. Worked on portfolio. Structure and layout are complete.
+
+**Thoughts**: I made all the structural changes (minus a few touch-ups) to my portfolio. The next step will be making minor adjustments, adding a blog post page, changing the colors and then adding in my projects.
+
+
 ### Day 4: June 8th, 2017
 
 **Today's Progress**: Coded for 60 minutes. 3/4ths done with portfolio. Worked on adding in jQuery accordian
