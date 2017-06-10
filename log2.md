@@ -9,6 +9,15 @@
 
 **Thoughts**: -->
 
+### Day 6: June 10th, 2017
+
+**Today's Progress**: Coded for 60 minutes. Changed colors on main page. Added a link to a blog post page and created the blog post page.
+
+**Thoughts**: Proud to have a good-looking portfolio so far! It will definitely need some refactoring but looking forward to it in the future. 
+
+**Link**: http://recordit.co/bIV1p8s7n4
+
+
 ### Day 5: June 9th, 2017
 
 **Today's Progress**: Coded for 60 minutes. Worked on portfolio. Structure and layout are complete.
