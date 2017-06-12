@@ -9,6 +9,13 @@
 
 **Thoughts**: -->
 
+### Day 7: June 11th, 2017
+
+**Today's Progress**: Coded for 70 minutes on the plane from LA to Iceland. Worked on portfolio.
+
+**Thoughts**: Almost done with portfolio. Wondering if it's too "bland" after taking a look at my friend's. I can always add more if I change my mind.
+
+
 ### Day 6: June 10th, 2017
 
 **Today's Progress**: Coded for 60 minutes. Changed colors on main page. Added a link to a blog post page and created the blog post page.
