@@ -9,6 +9,13 @@
 
 **Thoughts**: -->
 
+### Day 8: June 12th, 2017
+
+**Today's Progress**: Coded for 90 minutes today - 30 in Iceland Airport and 60 on bus from Dublin, Ireland to Limerick, Ireland. Thank you Dublin Coach for putting wifi in your bus.
+
+**Thoughts**: Made significant progress! Deployed portfolio to GitHub Pages, added a few projects. Feeling great! Anxious to build more projects now.
+
+
 ### Day 7: June 11th, 2017
 
 **Today's Progress**: Coded for 70 minutes on the plane from LA to Iceland. Worked on portfolio.
