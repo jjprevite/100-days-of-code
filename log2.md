@@ -9,6 +9,17 @@
 
 **Thoughts**: -->
 
+### Day 9: June 14th, 2017 
+
+**Today's Progress**: Coded for 90 minutes. Worked on Random Quote Machine.
+
+**Thoughts**: Figured out exactly what I wanted to do (store quotes in an array, get a random intenger, then display quote at arr[randominteger]) but haven't figured out how to make it work using the DOM or jQuery.
+
+
+###: Skip June 13th, 2017
+**Excuse**: At research conference and didn't have enough time throughout the day. Lame excuse, I know. 
+
+
 ### Day 8: June 12th, 2017
 
 **Today's Progress**: Coded for 90 minutes today - 30 in Iceland Airport and 60 on bus from Dublin, Ireland to Limerick, Ireland. Thank you Dublin Coach for putting wifi in your bus.
