@@ -16,7 +16,7 @@
 **Thoughts**: Figured out exactly what I wanted to do (store quotes in an array, get a random intenger, then display quote at arr[randominteger]) but haven't figured out how to make it work using the DOM or jQuery.
 
 
-###: Skip June 13th, 2017
+### SKIP- June 13th, 2017
 **Excuse**: At research conference and didn't have enough time throughout the day. Lame excuse, I know. 
 
 
