@@ -9,6 +9,13 @@
 
 **Thoughts**: -->
 
+### Day 10: June 15th, 2017
+
+**Today's Progress**: Worked for 70 minutes. Almost done with Random Quote Machine.
+
+**Thoughts**: Feeling great! I was able to do it the way I wanted and figured out how to make it work. Now I'm working on adding in a Tweet button that preloads the tweet with the title and link to the story.
+
+
 ### Day 9: June 14th, 2017 
 
 **Today's Progress**: Coded for 90 minutes. Worked on Random Quote Machine.
