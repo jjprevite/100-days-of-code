@@ -9,6 +9,13 @@
 
 **Thoughts**: -->
 
+### Day 11: June 16th, 2017
+
+**Today's Progress**: Worked for 60 minutes. Did some work on RQM and read YDKJS.
+
+**Thoughts**: I think tomorrow I can finish RQM! We'll see. *fingers crossed*
+
+
 ### Day 10: June 15th, 2017
 
 **Today's Progress**: Worked for 70 minutes. Almost done with Random Quote Machine.
