@@ -9,6 +9,13 @@
 
 **Thoughts**: -->
 
+### Day 12: June 17th, 2017
+
+**Today's Progress**: Coded for 60 minutes. Didn't figure out Twitter API yet.
+
+**Thoughts**: Struggling to get this to work. I'll have to mess around with it tomorrow and see what I can do.
+
+
 ### Day 11: June 16th, 2017
 
 **Today's Progress**: Worked for 60 minutes. Did some work on RQM and read YDKJS.
