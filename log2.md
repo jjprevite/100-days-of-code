@@ -9,6 +9,13 @@
 
 **Thoughts**: -->
 
+### Day 13: June 18th, 2017
+
+**Today's Progress**: Coded for 130 minutes, with the help of my friend Remik. Tried to understand Twitter's API.
+
+**Thoughts**: It was tough today- we had a few successes for certain instances but weren't able to find a "catch-all" solution for the Random Quote Machine Tweet button unfortunately.
+
+
 ### Day 12: June 17th, 2017
 
 **Today's Progress**: Coded for 60 minutes. Didn't figure out Twitter API yet.
