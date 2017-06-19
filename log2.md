@@ -8,6 +8,12 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 14: June 19th, 2017
+
+**Today's Progress**: Coded for 70 minutes. Finished RQG! :D Remik and I pair-programmed to finish it. 
+
+**Thoughts**: We used the Twitter API docs to figure out what we needed to do and it worked! :D
+
 
 ### Day 13: June 18th, 2017
 
