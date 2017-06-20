@@ -8,9 +8,16 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 15: June 20th, 2017
+
+**Today's Progress**: Coded for 60 minutes- worked on RQM, improving it.
+
+**Thoughts**: Right now, there's a possibility of generating the same quote twice in a row. I worked on improving the algorithm to fix it but didn't finish yet.
+
+
 ### Day 14: June 19th, 2017
 
-**Today's Progress**: Coded for 70 minutes. Finished RQG! :D Remik and I pair-programmed to finish it. 
+**Today's Progress**: Coded for 70 minutes. Finished RQM! :D Remik and I pair-programmed to finish it. 
 
 **Thoughts**: We used the Twitter API docs to figure out what we needed to do and it worked! :D
 
