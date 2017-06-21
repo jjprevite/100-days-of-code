@@ -8,6 +8,14 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+
+### Day 16: June 21st, 2017
+
+**Today's Progress**: Coded for 75 minutes with Remik. Finished RQM, updated portfolio.
+
+**Thoughts**: Glad to say I've finished a one of the fCC projects.
+
+
 ### Day 15: June 20th, 2017
 
 **Today's Progress**: Coded for 60 minutes- worked on RQM, improving it.
