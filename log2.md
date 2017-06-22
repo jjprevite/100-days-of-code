@@ -8,10 +8,16 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 17: June 22nd, 2017
+
+**Today's Progress**: Coded for 264 minutes. Started Local Weather API Project.
+
+**Thoughts**: Could not figure out how to access JSON from API for the longest time. Luckily, figured it out using AJAX.
+
 
 ### Day 16: June 21st, 2017
 
-**Today's Progress**: Coded for 75 minutes with Remik. Finished RQM, updated portfolio.
+**Today's Progress**: Coded for 75 minutes. Finished RQM, updated portfolio.
 
 **Thoughts**: Glad to say I've finished a one of the fCC projects.
 
