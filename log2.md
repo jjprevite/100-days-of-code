@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 18: June 23rd, 2017
+
+**Today's Progress**: Coded for 75 minutes. Made significant progress on Local Weather API Project.
+
+**Thoughts**: Happy I figured out how to use jQuery to create a button that toggles between two functions :) (Thanks to using an older version of jQuery).
+
+
 ### Day 17: June 22nd, 2017
 
 **Today's Progress**: Coded for 264 minutes. Started Local Weather API Project.
