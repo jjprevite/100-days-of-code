@@ -8,6 +8,15 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 20: June 25th, 2017
+
+**Today's Progress**: Coded for 110 minutes. Finished Local Weather API Project.
+
+**Thoughts**: Could still change a few things but decided to stop until I get feedback from friends. 
+
+**Link**: http://g.recordit.co/xIVuj00YRG.gif
+
+
 ### Day 19: June 24th, 2017
 
 **Today's Progress**: Coded for 110 minutes. Worked on Local Weather API project. Sketched a design, worked on portfolio.
