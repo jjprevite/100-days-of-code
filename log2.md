@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 21: June 26th, 2017
+
+**Today's Progress**: Coded for 90 minutes. Added animation and jQuery to Local Weather API Project.
+
+**Thoughts**: Feeling proud of my project! Ran into a few issues but pushed through them. Thinking I'll need to learn how to write cleaner code- currently using some vanillaJS and some jQuery (bad practice).
+
+
 ### Day 20: June 25th, 2017
 
 **Today's Progress**: Coded for 110 minutes. Finished Local Weather API Project.
