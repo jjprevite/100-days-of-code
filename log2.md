@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 22: June 27th, 2017
+
+**Today's Progress**: Coded for 60 minutes. Uploaded portfolio to website, added some effects to website.
+
+**Thoughts**: You can learn a new skill quickly if you practice it every day! :)
+
+
 ### Day 21: June 26th, 2017
 
 **Today's Progress**: Coded for 90 minutes. Added animation and jQuery to Local Weather API Project.
