@@ -8,11 +8,19 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 23: June 28th, 2017
+
+**Today's Progress**: Coded for 60 minutes. Researched Wikipedia API and also started a tutorial on Sass.
+
+**Thoughts**: Wikipedia API may be a little bit tough in the beginning but I'll figure it out. Sass seems cool! I like the idea of nesting.
+
+
 ### Day 22: June 27th, 2017
 
 **Today's Progress**: Coded for 60 minutes. Uploaded portfolio to website, added some effects to website.
 
-**Thoughts**: You can learn a new skill quickly if you practice it every day! :)
+**Thoughts**: You can learn a new skill quickly if you practice it every day! :) 
+**UPDATE**: I had a job interview for a design comapny in AZ and got it! So I'll do a one-month trial period (paid test-run) and then I'll be considered for full-time hire! :D
 
 
 ### Day 21: June 26th, 2017
