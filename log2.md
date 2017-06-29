@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 24: June 29th, 2017
+
+**Today's Progress**: Coded for 60 minutes. Worked on Sass tutorial from Net Ninja. 3/4s done.
+
+**Thoughts**: I think Sass is going to serve me well for future projects.
+
+
 ### Day 23: June 28th, 2017
 
 **Today's Progress**: Coded for 60 minutes. Researched Wikipedia API and also started a tutorial on Sass.
