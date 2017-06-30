@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 25: June 30th,2017
+
+**Today's Progress**: Coded for 120 minutes. Worked on Wikipedia Viewer. Making progress.
+
+**Thoughts**: Thinking I need to learn more about AJAX for making API requests to get to the next step of this project.
+
+
 ### Day 24: June 29th, 2017
 
 **Today's Progress**: Coded for 60 minutes. Worked on Sass tutorial from Net Ninja. 3/4s done.
