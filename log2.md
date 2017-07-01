@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 26: July 1st, 2017
+
+**Today's Progress**: Coded for 105 minutes. Worked on Wikipedia Viewer with Rachel.
+
+**Thoughts**: We made significant progress! :D
+
+
 ### Day 25: June 30th,2017
 
 **Today's Progress**: Coded for 120 minutes. Worked on Wikipedia Viewer. Making progress.
