@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 27: July 2nd, 2017
+
+**Today's Progress**: Coded for 60 minutes. Watched tutorials on how to use Sketch.
+
+**Thoughts**: Excited for all the posibilities! Now I feel like I'm growing as a designer, which will help with my job!
+
+
 ### Day 26: July 1st, 2017
 
 **Today's Progress**: Coded for 105 minutes. Worked on Wikipedia Viewer with Rachel.
