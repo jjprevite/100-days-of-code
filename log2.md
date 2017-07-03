@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 28: July 3rd, 2017
+
+**Today's Progress**: Coded for 60 minutes. Worked on Wikipedia Viewer. Made a tiny bit of progress.
+
+**Thoughts**: I have to figure out how to reset the value of the text box so that the user can make a new query.
+
+
 ### Day 27: July 2nd, 2017
 
 **Today's Progress**: Coded for 60 minutes. Watched tutorials on how to use Sketch.
