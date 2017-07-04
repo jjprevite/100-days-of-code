@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 29: July 4th, 2017
+
+**Today's Progress**: Coded for 60 minutes. Worked through Sass and Sketch tutorials.
+
+**Thoughts**: Excited to use Sketch in the future!
+
+
 ### Day 28: July 3rd, 2017
 
 **Today's Progress**: Coded for 60 minutes. Worked on Wikipedia Viewer. Made a tiny bit of progress.
