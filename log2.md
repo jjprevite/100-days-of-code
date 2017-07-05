@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+## Day 30: July 5th, 2017
+
+**Today's Progress**: Coded for 60 minutes. Worked on Wiki Viewer.
+
+**Thoughts**: Thank you to P1xt for writing an article saying that the fCC challenges didn't prepare us well enough for making API requests!
+
+
 ### Day 29: July 4th, 2017
 
 **Today's Progress**: Coded for 60 minutes. Worked through Sass and Sketch tutorials.
