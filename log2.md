@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 31: July 6th, 2017
+
+**Today's Progress**: Coded for 80 minutes today with Rachel from FCW. Worked on Wiki Viewer- finished logic!
+
+**Thoughts**: Glad to have the privilege to pair-program with friends like her. I always learn a lot and it's more enjoyable. 
+
+
 ## Day 30: July 5th, 2017
 
 **Today's Progress**: Coded for 60 minutes. Worked on Wiki Viewer.
