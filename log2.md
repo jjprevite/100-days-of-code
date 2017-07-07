@@ -13,6 +13,7 @@
 **Today's Progress**: Coded for 60 minutes. Wiki Viewer is basically done :D 
 
 **Thoughts**: It was a lot easier to figure out working with another developer.
+**Link**: http://g.recordit.co/vPrsFGgWnU.gif
 
 
 ### Day 31: July 6th, 2017
