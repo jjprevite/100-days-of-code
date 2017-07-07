@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 32: July 7th, 2017
+
+**Today's Progress**: Coded for 60 minutes. Wiki Viewer is basically done :D 
+
+**Thoughts**: It was a lot easier to figure out working with another developer.
+
+
 ### Day 31: July 6th, 2017
 
 **Today's Progress**: Coded for 80 minutes today with Rachel from FCW. Worked on Wiki Viewer- finished logic!
