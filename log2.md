@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 33: July 8th, 2017
+
+**Today's Progress**: Coded for 105 minutes with Nick from Armadillos. Worked on Simon Game.
+
+**Thoughts**: I learn a lot working with other people because everyone has their own knowledge, style and experience that they bring to the table.
+
+
 ### Day 32: July 7th, 2017
 
 **Today's Progress**: Coded for 60 minutes. Wiki Viewer is basically done :D 
