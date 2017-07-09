@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 34: July 9th, 2017
+
+**Today's Progress**: Coded for 205 minutes. Finished Wiki Viewer and worked on Algorithms with Remik.
+
+**Thoughts**: It's a lot more fun to code with friends :D
+
+
 ### Day 33: July 8th, 2017
 
 **Today's Progress**: Coded for 105 minutes with Nick from Armadillos. Worked on Simon Game.
