@@ -8,6 +8,14 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+
+### Day 35: July 10th, 2017
+
+**Today's Progress**: Coded for 85 minutes. Watched Wordpress videos on Lynda course.
+
+**Thoughts**: Enjoying it actually! It will really come in handy for work.
+
+
 ### Day 34: July 9th, 2017
 
 **Today's Progress**: Coded for 205 minutes. Finished Wiki Viewer and worked on Algorithms with Remik.
