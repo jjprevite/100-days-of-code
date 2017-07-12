@@ -9,6 +9,20 @@
 
 **Thoughts**: -->
 
+### Day 37: July 12th, 2017
+
+**Today's Progress**: Coded for 120 minutes. Worked on website in WP and Bootstrap.
+
+**Thoughts**: I feel like I'm so slow. With time, I hope to go faster.
+
+
+### Day 36: July 11th, 2017
+
+**Today's Progress**: Coded for 180 minutes. Worked on website in WP and Bootstrap.
+
+**Thoughts**: Definitely learning a lot!
+
+
 ### Day 35: July 10th, 2017
 
 **Today's Progress**: Coded for 85 minutes. Watched Wordpress videos on Lynda course.
