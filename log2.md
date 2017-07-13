@@ -8,6 +8,12 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 38: July 13th, 2017
+
+**Today's Progress**: Coded for 150 minutes. Worked on figuring out why Sass wasn't compiling correctly and WP tutorial
+
+**Thoughts**: Super excited to learn WP!
+
 
 ### Day 37: July 12th, 2017
 
