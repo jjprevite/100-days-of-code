@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 40: July 15th, 2017
+
+**Today's Progress**: Coded 360 minutes. Pair-programming with Rachel on Twitch TV.
+
+**Thoughts**: It's a lot better working with a friend on a project than working alone. The time went by a lot faster :) 
+
+
 ### Day 39: July 14th, 2017
 
 **Today's Progress**: Coded for 210 minutes. Worked on HTML, CSS and Sass. Did some WP tutorial.
