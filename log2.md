@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 41: July 16th, 2017
+
+**Today's Progress**: Coded for 220 minutes. Pair-programmed with Remik and worked on intermediate algorithms on FCC. Finished 8. Also worked on WP tutorial. Currently at 43%.
+
+**Thoughts**: There is a possibility of me being able to finish the fCC cert before I start work on August 7th! :D
+
+
 ### Day 40: July 15th, 2017
 
 **Today's Progress**: Coded 360 minutes. Pair-programming with Rachel on Twitch TV.
