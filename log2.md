@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 42: July 17th, 2017
+
+**Today's Progress**: Coded for 330 minutes. 3.5 hours on work related stuff (Bootstrap), .3 on Wordpress, 1.3 on algorithms and .3 on fCC projects.
+
+**Thoughts**: Had fun pair-programming!
+
+
 ### Day 41: July 16th, 2017
 
 **Today's Progress**: Coded for 220 minutes. Pair-programmed with Remik and worked on intermediate algorithms on FCC. Finished 8. Also worked on WP tutorial. Currently at 43%.
