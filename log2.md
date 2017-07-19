@@ -8,6 +8,20 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 44: July 19th, 2017
+
+**Today's Progress**: Coded for 300 minutes. Worked on bootstrap stuff, WP tutorial and fCC algorithms.
+
+**Thoughts**: This algorithm is quite a challenge! But I know I can do it. 
+
+
+### Day 43: July 18th, 2017
+
+**Today's Progress**: Code for 300 minutes. Worked on website stuff and algorithms. 
+
+**Thoughts**: So close to finishing fCC!
+
+
 ### Day 42: July 17th, 2017
 
 **Today's Progress**: Coded for 330 minutes. 3.5 hours on work related stuff (Bootstrap), .3 on Wordpress, 1.3 on algorithms and .3 on fCC projects.
