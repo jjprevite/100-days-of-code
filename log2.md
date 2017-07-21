@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 45: July 20th, 2017
+
+**Today's Progress**: Coded for 180 minutes. Worked on bootstrap stuff again. 
+
+**Thoughts**: Feeling like I'm learning more and more Bootstrap.
+
+
 ### Day 44: July 19th, 2017
 
 **Today's Progress**: Coded for 300 minutes. Worked on bootstrap stuff, WP tutorial and fCC algorithms.
