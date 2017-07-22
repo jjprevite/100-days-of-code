@@ -8,6 +8,16 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+
+### Day 46: July 21st, 2017
+
+**Today's Progress**: Coded for 318 minutes. Finished intermediate algorithms pair-programming with Remik. Started JS Calculator
+
+**Thoughts**: I can't believe how close I am to finishing!
+
+### : July 21st, 2017 -- REST DAY
+
+
 ### Day 45: July 20th, 2017
 
 **Today's Progress**: Coded for 180 minutes. Worked on bootstrap stuff again. 
