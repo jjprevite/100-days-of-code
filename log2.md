@@ -8,8 +8,14 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 47: July 23rd, 2017
 
-### Day 46: July 21st, 2017
+**Today's Progress**: Coded for 76 minutes. Designed JS calculator in Sketch then started coding it in HTML/CSS.
+
+**Thoughts**: Learning a lot about CSS through this project!    
+
+
+### Day 46: July 22nd, 2017
 
 **Today's Progress**: Coded for 318 minutes. Finished intermediate algorithms pair-programming with Remik. Started JS Calculator
 
