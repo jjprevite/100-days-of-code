@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 48: July 24th, 2017
+
+**Today's Progress**: Coded for 80 minutes. Made good progress on JS Calculator.
+
+**Thoughts**: Really enjoying this because I feel like I'm almost there!
+
+
 ### Day 47: July 23rd, 2017
 
 **Today's Progress**: Coded for 76 minutes. Designed JS calculator in Sketch then started coding it in HTML/CSS.
