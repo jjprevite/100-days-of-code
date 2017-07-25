@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 49: July 25th, 2017
+
+**Today's Progress**: Coded for 100 minutes. Finished WP tutorial, started Flexbox tutorial and did Bootstrap challenges on fCC Beta.
+
+**Thoughts**: Interested to see how fCC Beta becomes more challenging. 
+
+
 ### Day 48: July 24th, 2017
 
 **Today's Progress**: Coded for 80 minutes. Made good progress on JS Calculator.
