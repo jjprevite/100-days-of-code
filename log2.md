@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 50: July 26th, 2017
+
+**Today's Progress**: Coded for 180 minutes. Worked through Flexbox Zombies and on JS Calculator. 95% done! Just have to handle errors.
+
+**Thoughts**: using a function to convert a string to a math expression that someone else wrote isn't cheating because it's like using a library, right?
+
+
 ### Day 49: July 25th, 2017
 
 **Today's Progress**: Coded for 100 minutes. Finished WP tutorial, started Flexbox tutorial and did Bootstrap challenges on fCC Beta.
