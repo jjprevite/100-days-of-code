@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 51: July 27th, 2017
+
+**Today's Progress**: Coded for 60 minutes. Worked through Flexbox Zombies and worked on JS Calculator. So close but still little bugs to fix.
+
+**Thoughts**: Hoping I can figure out how to make my logic work better to prevent errors like multiple zeros or decimals.
+
+
 ### Day 50: July 26th, 2017
 
 **Today's Progress**: Coded for 180 minutes. Worked through Flexbox Zombies and on JS Calculator. 95% done! Just have to handle errors.
