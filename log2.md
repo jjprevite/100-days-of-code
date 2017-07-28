@@ -8,6 +8,13 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 52: July 28th, 2017
+
+**Today's Progress**: Coded for 90 minutes. Work through Flexbox Zombies and through NPM challenges on fCC back-end.
+
+**Thoughts**: Really enjoying learning the back-end!
+
+
 ### Day 51: July 27th, 2017
 
 **Today's Progress**: Coded for 60 minutes. Worked through Flexbox Zombies and worked on JS Calculator. So close but still little bugs to fix.
