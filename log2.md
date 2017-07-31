@@ -8,6 +8,17 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+
+### Day 53: July 30th, 2017
+
+**Today's Progress**: Coded for 60 minutes. Worked on Team Turtles 37 project - back-end.
+
+**Thoughts**: I was a little nervous about being the back-end lead but I think I'm going to learn a lot. Even today, I learned about creating branches from other exisiting branches, adding changes, submitting PRs and then merging them :D
+
+
+### : July 29th, 2017 -- REST DAY - traveled from Europe back to US.
+
+
 ### Day 52: July 28th, 2017
 
 **Today's Progress**: Coded for 90 minutes. Work through Flexbox Zombies and through NPM challenges on fCC back-end.
@@ -55,6 +66,7 @@
 **Today's Progress**: Coded for 318 minutes. Finished intermediate algorithms pair-programming with Remik. Started JS Calculator
 
 **Thoughts**: I can't believe how close I am to finishing!
+
 
 ### : July 21st, 2017 -- REST DAY
 
