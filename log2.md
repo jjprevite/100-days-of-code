@@ -9,6 +9,13 @@
 
 **Thoughts**: -->
 
+### Day 54: July 31st, 2017
+
+**Today's Progress**: Coded for 77 minutes today. Worked on logo for Web Bakers project.
+
+**Thoughts**: Logo design is tough! I wish I were better at it. 
+
+
 ### Day 53: July 30th, 2017
 
 **Today's Progress**: Coded for 60 minutes. Worked on Team Turtles 37 project - back-end.
