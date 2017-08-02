@@ -9,6 +9,13 @@
 
 **Thoughts**: -->
 
+### Day 55: August 1st, 2017
+
+**Today's Progress**: Coded for 60 minutes. Worked on logos for Web Bakers.
+
+**Thoughts**: Feeling like I'm making progress. Wish I knew more about Illustrator/designing logos.
+
+
 ### Day 54: July 31st, 2017
 
 **Today's Progress**: Coded for 77 minutes today. Worked on logo for Web Bakers project.
