@@ -9,6 +9,13 @@
 
 **Thoughts**: -->
 
+### Day 56: August 2nd, 2017
+
+**Today's Progress**: Coded for 75 minutes. Worked on logos for Web Bakers.
+
+**Thoughts**: Hoping to make some really good ones this weekend!
+
+
 ### Day 55: August 1st, 2017
 
 **Today's Progress**: Coded for 60 minutes. Worked on logos for Web Bakers.
