@@ -9,6 +9,15 @@
 
 **Thoughts**: -->
 
+### Day 57: August 8th, 2017
+
+**Today's Progress**: Coded for 255 minutes learning PHP today.
+
+**Thoughts**: It's very similar to JavaScript! It seems as though it's more "syntactically sweet" because the methods make sense.
+
+### NOTE: I took a break from recording here from August 3rd - August 8th. I still coded on those days but it was when I started my internship so I haven't been the best about keeping track.
+
+
 ### Day 56: August 2nd, 2017
 
 **Today's Progress**: Coded for 75 minutes. Worked on logos for Web Bakers.
