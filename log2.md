@@ -9,6 +9,13 @@
 
 **Thoughts**: -->
 
+### Day 58: August 9th, 2017
+
+**Today's Progress**: Coded for 255 minutes trying to set up local environment for WordPress site. 
+
+**Thoughts**: I learned what NOT to do :) 
+
+
 ### Day 57: August 8th, 2017
 
 **Today's Progress**: Coded for 255 minutes learning PHP today.
