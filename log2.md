@@ -8,6 +8,12 @@
 **Today's Progress**: 
 
 **Thoughts**: -->
+### Day 59: August 10th, 2017
+
+**Today's Progress**: Coded for 150 minutes. Worked on web-bakers app and on CSS at work.
+
+**Thoughts**: Getting better at CSS :)
+
 
 ### Day 58: August 9th, 2017
 
