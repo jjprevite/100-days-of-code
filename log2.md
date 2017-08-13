@@ -3,11 +3,23 @@
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
-<!--### Day #: DATE
+### Day 61: August 13th, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Coded for 75 minutes working on logos for web-bakers and back-end.
 
-**Thoughts**: -->
+**Thoughts**: Struggling to find time to code for personal projects lately :(
+
+
+### August 12th, 2017 -- SKIP
+
+
+### Day 60: August 11th, 2017
+
+**Today's Progress**: Coded for 120 minutes at work learning Vuejs.
+
+**Thoughts**: Excited to learn Vue!
+
+
 ### Day 59: August 10th, 2017
 
 **Today's Progress**: Coded for 150 minutes. Worked on web-bakers app and on CSS at work.
