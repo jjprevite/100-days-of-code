@@ -1,7 +1,22 @@
 # 100 Days Of Code - Log (Round 2)
 
 <!--### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+##### (delete me or comment me out) 
+
+### Day ##: 
+
+**Today's Progress**:
+
+**Thoughts**:
+
+-->
+
+### Day 62: 
+
+**Today's Progress**: Coded for 90 minutes (learned new stuff at work). Worked on more Vuejs, and learned about Advanced Custom Fields for WordPress  
+
+**Thoughts**: Feeling like I'm growing a lot in my WordPress skills!
+
 
 ### Day 61: August 13th, 2017
 
