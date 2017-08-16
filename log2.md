@@ -11,7 +11,14 @@
 
 -->
 
-### Day 62: 
+### Day 63: August 15th, 2017
+
+**Today's Progress**: Coded for 90 minutes. Learned about FTP and acf WP.
+
+**Thoughts**: Progressing slowly as WordPress Developer! :D 
+
+
+### Day 62: August 14th, 2017 
 
 **Today's Progress**: Coded for 90 minutes (learned new stuff at work). Worked on more Vuejs, and learned about Advanced Custom Fields for WordPress  
 
