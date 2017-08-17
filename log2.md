@@ -11,6 +11,13 @@
 
 -->
 
+### Day 64: August 16th, 2017 
+
+**Today's Progress**: Coded for 60 minutes. Worked on WordPress site, wrote some PHP, HTML and Sass.
+
+**Thoughts**: Feeling like I'm learning so much about WordPress.
+
+
 ### Day 63: August 15th, 2017
 
 **Today's Progress**: Coded for 90 minutes. Learned about FTP and acf WP.
