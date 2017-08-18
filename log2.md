@@ -10,6 +10,12 @@
 **Thoughts**:
 
 -->
+### Day 65: 
+
+**Today's Progress**: Coded for 60 minutes. Learned more about CSS styles.
+
+**Thoughts**: I feel like I'm learning a ton!
+
 
 ### Day 64: August 16th, 2017 
 
