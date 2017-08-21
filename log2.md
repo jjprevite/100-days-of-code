@@ -10,7 +10,22 @@
 **Thoughts**:
 
 -->
-### Day 65: 
+
+### Day 67: August 19th, 2017 
+
+**Today's Progress**: Coded for 90 minutes. Learned more about Mongoose and about WordPress.
+
+**Thoughts**: Excited to finally start his Lynda track on WP!
+
+
+### Day 66: August 18th, 2017
+
+**Today's Progress**: Coded for 60 minutes. Learned about Bootstrap modals.
+
+**Thoughts**: Learning so much at work!
+
+
+### Day 65: August 17th, 2017
 
 **Today's Progress**: Coded for 60 minutes. Learned more about CSS styles.
 
