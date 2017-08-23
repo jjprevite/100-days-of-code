@@ -11,6 +11,27 @@
 
 -->
 
+### Day 70: August 22nd, 2017
+
+**Today's Progress**: Coded for 60 minutes. Learned more about Advanced Custom Fields today.
+
+**Thoughts**: I feel like I know more about WordPress than I actually do!
+
+
+### Day 69: August 21st, 2017 
+
+**Today's Progress**: Coded for 60 minutes. Focused on Bootstrap and CSS for PR website with Amaya.
+
+**Thoughts**: It's helpful having to explain things out loud to another person! (pair-programming for the win)
+
+
+### Day 68: August 20th, 2017
+
+**Today's Progress**: Coded for 60 minutes. Learned about WP.
+
+**Thoughts**: Excited to keep learning more WordPress!
+
+
 ### Day 67: August 19th, 2017 
 
 **Today's Progress**: Coded for 90 minutes. Learned more about Mongoose and about WordPress.
