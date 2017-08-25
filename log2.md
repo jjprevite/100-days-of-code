@@ -11,6 +11,20 @@
 
 -->
 
+### Day 72: August 24th, 2017 
+
+**Today's Progress**: Coded for 137 minutes. Finished Lynda WordPress Essentials Training.
+
+**Thoughts**: Now I really know how to traverse the WP admin dashboard.
+
+
+### Day 71: August 23rd, 2017 
+
+**Today's Progress**: Coded for 60 minutes (8 hours at work). 
+
+**Thoughts**: Learning more about WP!
+
+
 ### Day 70: August 22nd, 2017
 
 **Today's Progress**: Coded for 60 minutes. Learned more about Advanced Custom Fields today.
