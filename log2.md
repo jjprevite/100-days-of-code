@@ -11,6 +11,11 @@
 
 -->
 
+### August 29th, 2017 - stopping round 2
+
+**Thoughts**: I've decided to take a break from this round. I have been focusing on my internship at Distill Mill and have not been consistent about "learning" outside of work and also tracking what I'm learning. I will continue to learn in and outside of working but I will take a break from this challenge. I will still post on Twitter what I'm learning about.
+
+
 ### Day 72: August 24th, 2017 
 
 **Today's Progress**: Coded for 137 minutes. Finished Lynda WordPress Essentials Training.
