@@ -11,7 +11,16 @@
 
 -->
 
-### August 29th, 2017 - stopping round 2
+### Day 74: October 4th, 2017
+
+**Today's Progress**: Coded for 303 minutes. Worked for 4 hours and 3 minutes on portfolio (built in Vue.js) and then 43 minutes on WordPress track.
+
+**Thoughts**: Super excited that I was able to rebuild my portfolio in Vue.js and deploy it successfully. Still needs some work like fixing the responsiveness (everything is super small on mobile...) and fixing broken links. But all in all, I'm proud to have come this far in such a short period. And I only have a little over 10 hours left of the WordPress track :D then I'll be able to do CS50.
+
+
+### RESUMING
+
+### Day 73: August 29th, 2017 - stopping round 2
 
 **Thoughts**: I've decided to take a break from this round. I have been focusing on my internship at Distill Mill and have not been consistent about "learning" outside of work and also tracking what I'm learning. I will continue to learn in and outside of working but I will take a break from this challenge. I will still post on Twitter what I'm learning about.
 
