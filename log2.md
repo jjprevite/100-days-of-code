@@ -20,7 +20,7 @@
 
 ### Day 75: October 5th, 2017 
 
-**Today's Progress**: Coded for 107 minutes. Worked through Lynda WordPress track - Programming fundamentals.
+**Today's Progress**: Coded for 156 minutes. Worked through Lynda WordPress track - Programming fundamentals. Also starte Thinkful web track. Already learned more about Git than I knew before :)
 
 **Categories**: Passive learning
 
