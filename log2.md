@@ -1,15 +1,31 @@
 # 100 Days Of Code - Log (Round 2)
 
 <!--### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out) 
+##### (delete me or comment me out)
+
+**1. Active learning (coding, teaching)
+**2. Passive learning (watching listening reading)
+**3. Networking
+**4. Fun (everything outside of programming)
 
 ### Day ##: 
 
 **Today's Progress**:
 
+**Categories**:
+
 **Thoughts**:
 
 -->
+
+### Day 75: October 5th, 2017 
+
+**Today's Progress**: Coded for 107 minutes. Worked through Lynda WordPress track - Programming fundamentals.
+
+**Categories**: Passive learning
+
+**Thoughts**: I feel like I already know most of the stuff being covered in the course but it's a good refresher :)
+
 
 ### Day 74: October 4th, 2017
 
