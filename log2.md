@@ -18,6 +18,15 @@
 
 -->
 
+### Day 76: October 6th, 2017  
+
+**Today's Progress**: Coded for 224 minutes. Finished Programming Fundamentals in WordPress Track, finished Git section in Thinkful Track and worked on Portfolio making homepage responsive.
+
+**Categories**: Active Learning and Passive Learning
+
+**Thoughts**: I feel so much more confident in my skills. At first, I was nervous I wouldn't be able to figure out why my Vue.js portfolio wasn't responsive but I figured it out within 10 minutes. It's not 100% done but it's waaaay closer :)
+
+
 ### Day 75: October 5th, 2017 
 
 **Today's Progress**: Coded for 156 minutes. Worked through Lynda WordPress track - Programming fundamentals. Also starte Thinkful web track. Already learned more about Git than I knew before :)
