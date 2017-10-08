@@ -17,6 +17,15 @@
 **Thoughts**:
 
 -->
+### Day 78: October 8th, 2017 
+
+**Today's Progress**: Coded for 97 minutes today. Finished Week 0 Lecture for CS50, started Grunt and Sass Certificate on WP Track and continued web fund. with Thinkful.
+
+**Categories**: Active Learning, Passive Learning and Fun (even though CS50 is still within programming)
+
+**Thoughts**: Really glad I started CS50! I am actually enjoying the lectures and think I'm going to learn a ton. 
+
+
 ### Day 77: October 7th, 2017 
 
 **Today's Progress**: Coded for 4 hours today. Wow, I worked on a lot of different things today! A little on WordPress Track - finished Version Control Certtificate. Then I worked on the Thinkful course and started Web Fundamentals (mostly HTML/CSS review so far), and then I made some updates to my portfolio and I also started CS50 (for fun) which is really exciting :)
