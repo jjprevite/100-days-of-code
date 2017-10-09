@@ -19,7 +19,7 @@
 -->
 ### Day 78: October 8th, 2017 
 
-**Today's Progress**: Coded for 97 minutes today. Finished Week 0 Lecture for CS50, started Grunt and Sass Certificate on WP Track and continued web fund. with Thinkful.
+**Today's Progress**: Coded for 221 minutes today. Finished Week 0 Lecture for CS50, started Grunt and Sass Certificate on WP Track and continued web fund. with Thinkful.
 
 **Categories**: Active Learning, Passive Learning and Fun (even though CS50 is still within programming)
 
