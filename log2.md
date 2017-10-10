@@ -17,6 +17,15 @@
 **Thoughts**:
 
 -->
+### Day 79: October 9th, 2017 
+
+**Today's Progress**: Coded for 24 minutes. Worked on WordPress Track
+
+**Categories**: Passive Learning
+
+**Thoughts**: I already know how to use ACF so it's mostly review but hopefully I learn something new.
+
+
 ### Day 78: October 8th, 2017 
 
 **Today's Progress**: Coded for 221 minutes today. Finished Week 0 Lecture for CS50, started Grunt and Sass Certificate on WP Track and continued web fund. with Thinkful.
