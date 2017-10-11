@@ -17,6 +17,15 @@
 **Thoughts**:
 
 -->
+### Day 80: October 10th, 2017
+
+**Today's Progress**: Coded foro 60 minutes. Worked on algorithms with Rachel and Reuben.
+
+**Categories**: Active Learning and Fun
+
+**Thoughts**: I'm happy to have both of them as friends whom I can code with :)
+
+
 ### Day 79: October 9th, 2017 
 
 **Today's Progress**: Coded for 24 minutes. Worked on WordPress Track
