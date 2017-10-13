@@ -17,6 +17,24 @@
 **Thoughts**:
 
 -->
+### Day 82: October 12th, 2017
+
+**Today's Progress**: Helped a friend for 120 minutes - with his Squarespace website. 
+
+**Categories**: Active Learning
+
+**Thoughts**: Squarespace is actually pretty nice! I had to figure out how to do a few things but I was able to accomplish almost everything!
+
+
+### Day 81: October 11th, 2017
+
+**Today's Progress**: Wrote for 45 minutes - article for freeCodeCamp. I know it's not coding... but it's related :)
+
+**Categories**: Active Learning (writing)
+
+**Thoughts**: Excited to share my experience with others in the community.
+
+
 ### Day 80: October 10th, 2017
 
 **Today's Progress**: Coded foro 60 minutes. Worked on algorithms with Rachel and Reuben.
