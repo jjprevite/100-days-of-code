@@ -17,6 +17,24 @@
 **Thoughts**:
 
 -->
+### Day 84: October 15th, 2017 
+
+**Today's Progress**: Wrote article for fCC.
+
+**Categories**: Active learning (writing)
+
+**Thoughts**: It was about my coding experience so I think it should count for #100DaysOfCode :)
+
+
+### Day 83: October 14th, 2017
+
+**Today's Progress**: Coded for 1 hour. Contributed to an open source project for Hacktoberfest.
+
+**Categories**: Active Learning 
+
+**Thoughts**: It's cool to contribute to open source projects!
+
+
 ### Day 82: October 12th, 2017
 
 **Today's Progress**: Helped a friend for 120 minutes - with his Squarespace website. 
