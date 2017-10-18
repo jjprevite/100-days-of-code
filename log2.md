@@ -17,6 +17,15 @@
 **Thoughts**:
 
 -->
+### Day 85: October 17th, 2017 
+
+**Today's Progress**: Pair-programmed with Rachel and Reuben- Reuben and I worked on Web Bakers. Also spent an hour on WP Track- only 48 minutes to go!
+
+**Categories**: Active and Passive Learning
+
+**Thoughts**: Can't believe I'm almost done with the WP Track! My deadline was Oct. 16th but I think I'll finish tomorrow.
+
+
 ### Day 84: October 15th, 2017 
 
 **Today's Progress**: Wrote article for fCC.
