@@ -17,6 +17,15 @@
 **Thoughts**:
 
 -->
+### Day 86: October 21st, 2017 
+
+**Today's Progress**: Finished WordPress path on Lynda finally! Also started brainstorming for next project
+
+**Categories**: Active and Passive Learning
+
+**Thoughts**: Excited to move away from tutorials and start building :)
+
+
 ### Day 85: October 17th, 2017 
 
 **Today's Progress**: Pair-programmed with Rachel and Reuben- Reuben and I worked on Web Bakers. Also spent an hour on WP Track- only 48 minutes to go!
