@@ -17,6 +17,15 @@
 **Thoughts**:
 
 -->
+### Day 87: 
+
+**Today's Progress**: Coded for 45 minutes. Worked on portfolio. Fixed some issues and changed a few things on develop branch. Lots more work to do.
+
+**Categories**: Active Learning
+
+**Thoughts**: I missed coding a lot.
+
+
 ### Day 86: October 21st, 2017 
 
 **Today's Progress**: Finished WordPress path on Lynda finally! Also started brainstorming for next project
