@@ -17,6 +17,15 @@
 **Thoughts**:
 
 -->
+### Day 88: 
+
+**Today's Progress**: Coded for 60 minutes. Worked with FCW on Web Bakers, planned out issues to work on.
+
+**Categories**: Passive Learning
+
+**Thoughts**: Excited to be working on a real project with a team :)
+
+
 ### Day 87: 
 
 **Today's Progress**: Coded for 45 minutes. Worked on portfolio. Fixed some issues and changed a few things on develop branch. Lots more work to do.
