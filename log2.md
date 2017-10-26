@@ -17,6 +17,15 @@
 **Thoughts**:
 
 -->
+### Day 89: 
+
+**Today's Progress**: Coded for 80 minutes at Thinkful meetup- learned how to build a Twitter bot with js.
+
+**Categories**: Active Learning
+
+**Thoughts**: I didn't realize how easy it was! It would be a great tool to use for marketing!
+
+
 ### Day 88: 
 
 **Today's Progress**: Coded for 60 minutes. Worked with FCW on Web Bakers, planned out issues to work on.
