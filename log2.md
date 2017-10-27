@@ -17,6 +17,15 @@
 **Thoughts**:
 
 -->
+### Day 90: 
+
+**Today's Progress**: Coded for 70 minutes. Worked on portfolio.
+
+**Categories**: Active Learning
+
+**Thoughts**: It's getting close to publishing the second draft - still some work to go.
+
+
 ### Day 89: 
 
 **Today's Progress**: Coded for 80 minutes at Thinkful meetup- learned how to build a Twitter bot with js.
