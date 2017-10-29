@@ -17,7 +17,16 @@
 **Thoughts**:
 
 -->
-### Day 90: 
+### Day 91: October 29th, 2017
+
+**Today's Progress**: Coded for 90 minutes. Worked on portfolio. Added Google Analytics and custom domain.
+
+**Categories**: Active Learning.
+
+**Thoughts**: I hope I did everything right! The guide I used online said it could take 1-48 hours before my website is live with the custom daomin.
+
+
+### Day 90: October 26th, 2017
 
 **Today's Progress**: Coded for 70 minutes. Worked on portfolio.
 
@@ -26,7 +35,7 @@
 **Thoughts**: It's getting close to publishing the second draft - still some work to go.
 
 
-### Day 89: 
+### Day 89: October 25th, 2017
 
 **Today's Progress**: Coded for 80 minutes at Thinkful meetup- learned how to build a Twitter bot with js.
 
@@ -35,7 +44,7 @@
 **Thoughts**: I didn't realize how easy it was! It would be a great tool to use for marketing!
 
 
-### Day 88: 
+### Day 88: October 24th, 2017
 
 **Today's Progress**: Coded for 60 minutes. Worked with FCW on Web Bakers, planned out issues to work on.
 
@@ -44,7 +53,7 @@
 **Thoughts**: Excited to be working on a real project with a team :)
 
 
-### Day 87: 
+### Day 87: October 23rd, 2017
 
 **Today's Progress**: Coded for 45 minutes. Worked on portfolio. Fixed some issues and changed a few things on develop branch. Lots more work to do.
 
