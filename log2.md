@@ -17,6 +17,15 @@
 **Thoughts**:
 
 -->
+### Day 92: November 5th, 2017 
+
+**Today's Progress**: Coded for 1 hour. Worked on web-bakers app. Added the keyboard shortcut ctrl + enter to the form on homepage.
+
+**Categories**: Active Learning
+
+**Thoughts**: Wish I could have made it also work for cmd + enter on OS X.
+
+
 ### Day 91: October 29th, 2017
 
 **Today's Progress**: Coded for 90 minutes. Worked on portfolio. Added Google Analytics and custom domain.
