@@ -17,6 +17,15 @@
 **Thoughts**:
 
 -->
+### Day 93: November 7th, 2017
+
+**Today's Progress**: Coded for 1 hour. Pair-programmed with Rachel and Reuben on Web-bakers
+
+**Categories**: Active Learning
+
+**Thoughts**: I miss pair-programming more often!
+
+
 ### Day 92: November 5th, 2017 
 
 **Today's Progress**: Coded for 1 hour. Worked on web-bakers app. Added the keyboard shortcut ctrl + enter to the form on homepage.
