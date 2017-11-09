@@ -17,6 +17,15 @@
 **Thoughts**:
 
 -->
+### Day 94: November 8th, 2017 
+
+**Today's Progress**: Coded for 1 hour and 50 minutes. Worked on portfolio. 
+
+**Categories**: Active Learning
+
+**Thoughts**: Found out direct urls don't work currently :( Hopefully I find a solution.
+
+
 ### Day 93: November 7th, 2017
 
 **Today's Progress**: Coded for 1 hour. Pair-programmed with Rachel and Reuben on Web-bakers
