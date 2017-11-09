@@ -17,6 +17,15 @@
 **Thoughts**:
 
 -->
+### Day 95: 
+
+**Today's Progress**: Coded for 1 hour. Learned how to use Google Cloud Platform to deploy WordPress site.
+
+**Categories**: Active/Passive Learning
+
+**Thoughts**: I hope I did everything right! And I wish it were easier to set up a staging environment.
+
+
 ### Day 94: November 8th, 2017 
 
 **Today's Progress**: Coded for 1 hour and 50 minutes. Worked on portfolio. 
