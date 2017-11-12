@@ -17,7 +17,17 @@
 **Thoughts**:
 
 -->
-### Day 95: 
+
+### Day 96: November 11th, 2017
+
+**Today's Progress**: Coded for 1.25 hours. Worked on fixing URLs for my portfolio.
+
+**Categories**: Active Learning and Passive Learning.
+
+**Thoughts**: No luck. It didn't work 100%. I fixed the 404 errors but I can't go to direct links.
+
+
+### Day 95: November 9th, 2017
 
 **Today's Progress**: Coded for 1 hour. Learned how to use Google Cloud Platform to deploy WordPress site.
 
