@@ -18,6 +18,15 @@
 
 -->
 
+### Day 97: November 14th, 2017
+
+**Today's Progress**: Coded for 1 hour on web-bakers. Solved Issue #34.
+
+**Categories**: Active Learning
+
+**Thoughts**: It felt awesome! I feel accomplished this morning.
+
+
 ### Day 96: November 11th, 2017
 
 **Today's Progress**: Coded for 1.25 hours. Worked on fixing URLs for my portfolio.
