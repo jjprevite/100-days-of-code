@@ -18,6 +18,15 @@
 
 -->
 
+### Day 98: November 15th, 2017 
+
+**Today's Progress**: Coded for 1 hour. Watched CS50 Week 1 lecture - 56 minutes of it. 
+
+**Categories**: Passive Learning.
+
+**Thoughts**: Still really enjoying these lectures!
+
+
 ### Day 97: November 14th, 2017
 
 **Today's Progress**: Coded for 1 hour on web-bakers. Solved Issue #34.
