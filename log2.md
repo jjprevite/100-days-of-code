@@ -18,6 +18,15 @@
 
 -->
 
+### Day 99: November 16th, 2017  
+
+**Today's Progress**: Coded for 1 hour and designed for 2 hours. Watched CS50 lecture 1.
+
+**Categories**: Active and Passive learning
+
+**Thoughts**: Designing logos is tough! Still enjoying CS50
+
+
 ### Day 98: November 15th, 2017 
 
 **Today's Progress**: Coded for 1 hour. Watched CS50 Week 1 lecture - 56 minutes of it. 
