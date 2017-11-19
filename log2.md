@@ -17,8 +17,16 @@
 **Thoughts**:
 
 -->
+### Day 100: November 19th, 2017
 
-### Day 99: November 16th, 2017  
+**Today's Progress**: Designed for 40 minutes then coded 1 hour working on pset1.
+
+**Categories**: Active Learning.
+
+**Thoughts**: Wow, I can't believe it's finally been 100 days!
+
+
+### Day 99: November 18th, 2017  
 
 **Today's Progress**: Coded for 1 hour and designed for 2 hours. Watched CS50 lecture 1.
 
